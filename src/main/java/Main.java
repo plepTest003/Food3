@@ -5,7 +5,7 @@ import service.ShoppingCart;
 
 public class Main {
     public static void main(String[] args) {
-        Food meat = new Meat(5, 100); //создаем обьекты. Черех параметр передаем данные конструктору в meat классе и.
+        Food meat = new Meat(5, 110); //создаем обьекты. Черех параметр передаем данные конструктору в meat классе и.
         Food redApple = new Apple(10, 50, "red");
         Food greenApple = new Apple(8, 60, "green");
 
